@@ -4,19 +4,19 @@
 class About extends Me {
     getSkills() {
         return [
+            'JavaScript',
+            'TypeScript',
             'React.js',
             'React Native',
             'Next.js',
             'Node.js',
             'Angular',
             'Web Components',
-            'TypeScript',
             'Elasticsearch',
             'Strapi',
             'GraphQL',
             'HTML',
             'CSS',
-            'JavaScript',
         ];
     }
 
